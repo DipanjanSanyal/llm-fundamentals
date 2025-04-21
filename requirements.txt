@@ -1,0 +1,8 @@
+jupyter
+ipykernel
+scikit-learn
+seaborn
+torch
+tokenmonster
+more_itertools
+kagglehub

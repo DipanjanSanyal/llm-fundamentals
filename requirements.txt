@@ -1,8 +1,5 @@
 jupyter
 ipykernel
-scikit-learn
-seaborn
+numpy
 torch
-tokenmonster
-more_itertools
-kagglehub
+transformers

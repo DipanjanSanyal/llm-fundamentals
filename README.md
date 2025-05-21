@@ -12,7 +12,7 @@ I try to explain the GPT architecture explained by Karpathy in his video lecture
 
 [Part2](./gpt-from-scratch-spelled-out-slower-part2.ipynb) includes the details starting from self-attention finally wrapped into the generative model.
 
-Training is not included yet. Training is straightforward and hence will be shown in a more compact code.
+[Training](./Simplified%20GPT%20Pretraining%20-%20Pure%20Pytorch.ipynb)
 
 ## Credits
 

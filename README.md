@@ -1,7 +1,5 @@
 # llm-fundamentals
 
-## Pure Pytorch
-
 GPT architecture by Karpathy explained in the following notebooks. In order to simplify, I have excluded some important but not so unique stuff like dropout, layernorm.
 
 1. [Part1](./gpt-from-scratch-spelled-out-slower-part1.ipynb) includes the overall generative model set-up without using transformer, just keeping a placeholder for transformer.
